@@ -9,7 +9,7 @@ class ThemeToggle extends Component {
         return (
             <button onClick={ toggleTheme }>Toggle the Theme</button>
         );
-    }
+    } 
 }
  
 export default ThemeToggle;
